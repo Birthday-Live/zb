@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Microsoft 365",
+        "link": "https://www.microsoft.com/zh-cn/microsoft-365",
+        "logo": "https://img.icons8.com/color/512/microsoft-365.png",
+        "desc": "Office 全家桶订阅服务"
+    },
+    {
+        "name": "Adobe 全家桶",
+        "link": "https://www.adobe.com/cn/creativecloud.html",
+        "logo": "https://img.icons8.com/fluency/512/adobe-creative-cloud.png",
+        "desc": "Photoshop、PR、AI 等专业创意软件"
+    },
+    {
+        "name": "JetBrains 全家桶",
+        "link": "https://www.jetbrains.com/shop/eap/",
+        "logo": "https://img.icons8.com/color/512/jetbrains.png",
+        "desc": "IntelliJ IDEA、PyCharm、WebStorm 等"
+    },
+    {
+        "name": "Final Cut Pro",
+        "link": "https://www.apple.com/cn/final-cut-pro/",
+        "logo": "https://img.icons8.com/fluency/512/apple-final-cut-pro.png",
+        "desc": "苹果专业视频剪辑软件"
+    },
+    {
+        "name": "Notion",
+        "link": "https://www.notion.so/",
+        "logo": "https://img.icons8.com/color/512/notion.png",
+        "desc": "新一代生产力与笔记工具"
+    },
+    {
+        "name": "ChatGPT Plus",
+        "link": "https://chatgpt.com/",
+        "logo": "https://img.icons8.com/fluency/512/openai.png",
+        "desc": "OpenAI 官方订阅"
+    },
+    {
+        "name": "Windows 11",
+        "link": "https://www.microsoft.com/zh-cn/software-download/windows11",
+        "logo": "https://img.icons8.com/color/512/windows-11.png",
+        "desc": "微软最新操作系统"
+    },
+    {
+        "name": "Affinity Photo 2",
+        "link": "https://affinity.serif.com/zh-cn/photo/",
+        "logo": "https://affinity.serif.com/favicon.ico",
+        "desc": "专业照片编辑软件（买断制）"
+    },
+    {
+        "name": "Steam",
+        "link": "https://s.team",
+        "logo: "https://store.steampowered.com/favicon.ico"
+        "desc": "Steam官方正版（需开VPN）"
+      
+    }
+]
